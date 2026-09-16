@@ -23,3 +23,6 @@ Developed a cascaded controller of state feedback control with Incremental Nonli
     </td>
   </tr>
 </table> 
+
+## Physical Prototype
+<img width="800" height="600" alt="WhatsApp Image 2026-09-16 at 11 19 22" src="https://github.com/user-attachments/assets/2673b4de-f772-46e1-a0c8-6171d66eb05d" />

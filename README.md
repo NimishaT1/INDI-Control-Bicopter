@@ -1,5 +1,5 @@
 # INDI-Control-Bicopter
-Developed a cascaded controller of state feedback control with Incremental Nonlinear Dynamic Inversion for a Tilt-Rotor Bicopter. Below are the simulation results of the bicopter in MuJoCu, undergoing submission for publication.
+Developed a cascaded controller of state feedback control with Incremental Nonlinear Dynamic Inversion for a Tilt-Rotor Bicopter. Below are the simulation results for the bicopter in MuJoCo, which are being submitted for publication. In the simulation, sliders are used to apply wind in any random direction at any time. The bicopter then corrects itself and returns to its original position, regardless of the continuous wind.
 ## Altitude hold at 1.5 meters for 20 seconds with gusts of winds in x and y direction
 <table>
   <tr>
